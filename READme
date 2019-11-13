@@ -1,0 +1,18 @@
+Task A
+Create an AJAX application which fethes HTML-document and displays it on web page
+Use images.html as source for HTML
+Open task-a.html and js/main-a.js
+Check comments in js/main-a.js for more instructions
+
+Task B
+Create an AJAX application which fethes data from JSON-document and displays it on web page
+Use images.json as source for data
+Open task-b.html and js/main-b.js
+Check comments in js/main-b.js for more instructions
+
+Task C
+Create similar AJAX application as in task B
+Use DOM methods to build the HTML
+Open task-c.html and js/main-c.js
+Check comments in js/main-c.js for more instructions
+
